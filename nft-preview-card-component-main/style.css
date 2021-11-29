@@ -87,3 +87,11 @@ body{
 .container .card .title:hover {
     color: var(--Cyan);
 }
+
+.container .card .description {
+    color: var(--Soft-blue);
+    font-size: 1.6rem;
+    line-height: 160%;
+    margin-top: 1.2rem;
+    font-weight: 300;
+}
