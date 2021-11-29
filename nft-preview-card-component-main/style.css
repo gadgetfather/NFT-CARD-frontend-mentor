@@ -50,3 +50,30 @@ body{
     border-radius: 1rem;
 }
 
+.img-wrapper{
+    position: relative;
+    cursor: pointer;
+}
+
+.color-overlay{
+    background-color: var(--Cyan);
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border-radius: 1rem;
+    display: none;
+}
+.view{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    display: none;
+}
+.container .card .img-wrapper:hover .color-overlay, .container .card .img-wrapper:hover .view {
+    display: block;
+}
+
