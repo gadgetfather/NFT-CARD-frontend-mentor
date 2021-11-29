@@ -56,3 +56,5 @@ I have learned using position property in CSS is quite difficult sometime. But a
 - Website - [Akshay Kamble](https://gadgetfather.netlify.app/)
 - Frontend Mentor - [@gadgetfather](https://www.frontendmentor.io/profile/gadgetfather)
 - Twitter - [@gadgetfather](https://www.twitter.com/gadgetfather)
+
+Thanks to [sergii-moroz](https://github.com/sergii-moroz)
