@@ -122,3 +122,27 @@ body{
     background-color: var(--line);
     margin-top: 1.6rem;
 }
+
+.container .card .avatar {
+    display: flex;
+    align-items: center;
+    color: var(--Soft-blue);
+    gap: 1.6rem;
+    font-size: 1.5rem;
+    margin-top: 1.6rem;
+    cursor: pointer;
+}
+.container .card .avatar img {
+    width: 3.3rem;
+    border: 1px solid transparent;
+    border-radius: 50%;
+}
+.container .card .avatar span {
+    color: white;
+}
+.container .card .avatar:hover img {
+    border: 1px solid white;
+}
+.container .card .avatar:hover span {
+    color: cyan;
+}
