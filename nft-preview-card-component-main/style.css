@@ -113,4 +113,12 @@ body{
     font-weight: 600;
 }
 .container .card .price-block .info {
-    color: soft-blue;}
+    color: soft-blue;
+}
+
+.container .card .line {
+    width: 100%;
+    height: 2px;
+    background-color: var(--line);
+    margin-top: 1.6rem;
+}
