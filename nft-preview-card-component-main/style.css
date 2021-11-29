@@ -43,6 +43,7 @@ body{
     width: 88%;
     border-radius: 2rem;
     padding: 2.5rem;
+    max-width: 35rem;
 }
 
 .hero{
